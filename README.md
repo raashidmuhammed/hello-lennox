@@ -34,3 +34,4 @@ This is a repository to practice using Git and GitHub.
   * Shriguru
   * Vishwa Poojitha
   * Divakar
+  * Vijay Kumar - Hope people got a better understanding Git!
