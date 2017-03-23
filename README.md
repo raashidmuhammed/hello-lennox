@@ -16,9 +16,13 @@ This is a repository to practice using Git and GitHub.
   * Saranya Chidambaram
   * Nivedha
   * Harini
+  * Gopi Vadalapti
+  * Nicholas
+  * Venkatesh
+  * Rajesh
   * Gopi Vadalapti: it is Vadlapati not vadalapti
   * Nicholas from Web team
-  * Vigneshwaran
+  * Vigneshwaran Mutharasan
   * Venkatesh T
   * Rajesh - god of kings
   * R. Ganesh kumar
@@ -34,5 +38,6 @@ This is a repository to practice using Git and GitHub.
   * Shriguru
   * Vishwa Poojitha - IT Web and mobility
   * Divakar
+
  
   Team Name : Web and Mobility.
